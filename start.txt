@@ -6,7 +6,7 @@ copyright 2
 copyright 3
 patri2799@hotmail.com
 <<<<<<< HEAD
-Jason Taylor 2014
+2014 Git.Training, All rights reserved. 
 =======
 Git Training 2014
 >>>>>>> realwork
