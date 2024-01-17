@@ -12,7 +12,7 @@ Git Training 2014
 >>>>>>> realwork
 THANKS to all my students
 <<<<<<< HEAD
-Some silly changes from mb
+Some silly
 =======
 This changes are from the feature branch bigtrouble
 >>>>>>> d52c96f (fb adding some trouble to start.txt)
