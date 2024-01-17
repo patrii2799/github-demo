@@ -2,7 +2,7 @@
 
 A simple demo repository to show the basic Git workflow.
 Editing...
-Adding a line to rebasing example.
+Adding a line to rebasing example, then more changes from myfeature branch too.
 
 ## Introduction
 
