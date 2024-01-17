@@ -16,3 +16,7 @@ Purpose text.
 Deployment text.
 
 ## How To Contribute
+
+## Copyright
+
+2014
